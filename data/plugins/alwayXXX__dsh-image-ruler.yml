@@ -1,0 +1,7 @@
+url: https://github.com/alwayXXX/dsh-image-ruler
+name: alwayXXX/dsh-image-ruler
+category: ui
+description:
+  en: Measures a rectangle on a DSH chat image in the image's own pixels and copies its width, height and coordinates.
+  zh: 在 DSH 聊天图片上框选矩形，按当前加载图像的像素显示并复制选区宽高与左上角坐标。
+tarball: https://github.com/alwayXXX/dsh-image-ruler/releases/download/v0.1.0/dsh-image-ruler-0.1.0.tgz
